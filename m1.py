@@ -1,2 +1,2 @@
-print('hai this is from the master')
-'tryhujk'
+print('hello world!!')
+print('this is likhitha')
